@@ -3,8 +3,8 @@ Programa que modela um banco de controle de filmes e séries assistidas. Projeto
 
 # Instruções de Uso
 
-Instalar componentes do backend e frontend (npm i)
-Backend na porta 5000
+Instalar componentes do backend e frontend (npm i)<br>
+Backend na porta 5000<br>
 Frontend na porta 3000
 
 Aplicação em execução<br>
